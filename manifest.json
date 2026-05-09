@@ -2,7 +2,7 @@
   "name": "帳單掃描器",
   "short_name": "掃描帳單",
   "description": "拍攝帳單條碼，AI 自動辨識轉帳數字",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f1117",
   "theme_color": "#1a6cf6",
